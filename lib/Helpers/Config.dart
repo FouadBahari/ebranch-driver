@@ -21,9 +21,9 @@ class Config {
 
   // network constants
   static Uri setApi (String endPoint){
-    return  Uri.parse("https://opaku.shop/api/$endPoint");
+    return  Uri.parse("https://alamewan.net/api/$endPoint");
   }
-  static String url = "https://opaku.shop/";
+  static String url = "https://alamewan.net/";
 
 
   static String googleApiAndroid = googleAndroidApi;
